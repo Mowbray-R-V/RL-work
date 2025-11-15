@@ -1,4 +1,4 @@
-# Multi-agent RL for robot scheduling  
+# Multi-agent RL for robot scheduling at intersections 
 
 
 # Framework1- Deep reinforcement learning aided distributed MPC for warehouse intersection of multi-agent system:
