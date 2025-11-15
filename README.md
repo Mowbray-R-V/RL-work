@@ -17,3 +17,6 @@ each time step. This approach resulted in RL addressing a longer horizon problem
 increased, the optimality gap in RL worsened(120 agents). To overcome this sub-optimal policy, the latent state and
 observation representations were fed to the RL using a bilinear LSTM with an attention mechanism. Reduced the
 computation by huge margin in comparison with framework1.
+
+
+https://docs.google.com/file/d/1LJUTGGWwl2RVPKT4519vmkfW_i12NGok/preview
