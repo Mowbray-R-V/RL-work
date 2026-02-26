@@ -1,6 +1,10 @@
 # Multi-agent RL for robot scheduling at intersections 
 
 
+
+
+![RL_0d11-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8aee7f4b-7611-4917-bed3-973acd686059)
+
 # Framework1- Deep reinforcement learning aided distributed MPC for warehouse intersection of multi-agent system:
 The work involves the use RL to aid the planning performed by the Model Predictive
 Control(MPC) for an un-signalised intersection problem. The DDPG agent is used to coordinate the different robots to
