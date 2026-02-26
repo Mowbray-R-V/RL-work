@@ -1,4 +1,4 @@
-# Multi-agent RL for robot scheduling at intersections 
+# Multi-agent RL for Intersection Management 
 
 
 
